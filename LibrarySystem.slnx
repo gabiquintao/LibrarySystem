@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="LibrarySystem.Domain/LibrarySystem.Domain.csproj" />
+</Solution>
