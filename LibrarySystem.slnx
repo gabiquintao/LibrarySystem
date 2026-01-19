@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="LibrarySystem.Application/LibrarySystem.Application.csproj" />
   <Project Path="LibrarySystem.Domain/LibrarySystem.Domain.csproj" />
+  <Project Path="LibrarySystem.Infraestructure/LibrarySystem.Infraestructure.csproj" />
+  <Project Path="LibrarySystem.WinForms/LibrarySystem.WinForms.csproj" Id="51814d73-afb5-4c2d-9907-bf9e329994f5" />
 </Solution>
